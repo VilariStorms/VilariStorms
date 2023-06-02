@@ -18,32 +18,33 @@ hey there cutie
 </br></br></br></br></br></br></br></br></br></br>
 
 
-### PGP key
-- https://pastebin.com/raw/XyBzeuEm
+### Contact me
+- PGP Key: https://pastebin.com/raw/XyBzeuEm
 - Email: Use PGP if important ![email@adress.piss](https://cdn.discordapp.com/attachments/1101565835291664404/1104446433836408922/aGc6ASO.png)
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
 Discord:
-Vilari#1337
+Vilari#8465
 Website:
 https://vilari.be.sexy
 Irc:
 vilari on LibraChat
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEJ34N2PYxwBrMlRhtJpgQS1okQxwFAmRWfFcACgkQJpgQS1ok
-QxwbjAv/aA1x2nyfs2eADXlVZED9sb9uRiQGvdZ2UPcjboQm4Bje83lggyLVFKy2
-AxPYrRfHl0Dc8ULUfIRH+UMhlL/7hHspioIvYMmVUvOvdjj7F7DT1JYJmxsEpxqW
-iUzCTuXpbcpKgjxloOZLIZ/g0fqGVpUywnvL2ICbsj3E+ZcfaR2TWP0A6j+B50yc
-PIzLCuKCfkF9c+i4E5FK8c9A59Qpy0z7PNJaAVxCW91La4Ipbak8nS9Hyy4BXJwu
-rjyF/msz/Pb8Bup/qirNmUGe35+zaOAd+/Vm8xcItxc+gdtx3wx00z3RCFVEzGvp
-Oor7uWe5XbqBHSUcYGGPUdIoFRcSSyRGBncUaUIirdY3zUN/HiZPNUGSIjgVZTTy
-WZqcnz/rVVp2OGMe6umdN+i8jq1GVdL9d9UksWbgMehOAom1oyxXCstqbN+T5Rox
-AZE1hhG5RHTE/4asGvIOqS3SsNx39i1Yj0VsczW6z0wUtmcLqoUf4yY5aAsOW7kt
-3+BhX35n
-=eDdZ
+iQGzBAEBCgAdFiEEJ34N2PYxwBrMlRhtJpgQS1okQxwFAmR6VaoACgkQJpgQS1ok
+Qxz0MwwAgfichNjIEZTBtHSkiHjWXbV6cGxoX6pXog6c2OU7ev4B/qpnzpQU9NlS
+Zo0Ae6YtaiSKf6l1FgLg2uad1jv9HWZsnpgp0WnMMA/af9nMonXAW6mDHwdMyzrE
+D7uW7ARqMVp4RXFIVcBI5+aOqWVYlc/Ax3eEOM9Bn6jYLiyDi4V+mmMkQFgGiLoj
+G6n87BdYkRa31qjIpAnNiJ24ekgGWacJVFN3sgf6HeX2I4uYbgz3+RYKhQef76Tg
+xayEymTh3/adeRAyYqZKTcm+oW3xVv7gpxKDvlSv6h7lW1i4iMu6eRNqtP90XCnq
+QeJVlg31pRpdivJVvnknxUPzcCin46BiM39+RmT1Tp+q/DzceIqD1h1HZPzgECwD
+GtxF8LDuzXTXWIWMqQ20HJ3B5t8AejDuZvkGgPJaDStVw+6obVHBq2MBSBLsabkn
+Zb6z6Mn738LcyTcPB2d4H+T7R4P/teuMxutOuv8L0AyEmKd4Ns0xebOKzyiMee4S
+P6OG39OE
+=ISwo
 -----END PGP SIGNATURE-----
+
 ```
 
