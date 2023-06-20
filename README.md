@@ -1,4 +1,4 @@
-<img align="left" src="https://cdn.discordapp.com/avatars/1072682112370626650/de12698cd1566c58298cded46ff4c415.png"> <img align="right" src="https://cdn.discordapp.com/avatars/1072682112370626650/de12698cd1566c58298cded46ff4c415.png">
+<img align="left" src="https://cdn.discordapp.com/attachments/842501199693086750/1120646988283793518/FGmWfPH.png"> <img align="right" src="https://cdn.discordapp.com/attachments/842501199693086750/1120646988283793518/FGmWfPH.png">
 
 <div align="center">
 
