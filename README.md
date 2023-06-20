@@ -12,7 +12,7 @@
 hey there cutie
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=VilariStorms&show_icons=true">
+<img align="left" src="https://media.discordapp.net/attachments/842501199693086750/1120614751865671680/ezgif-3-343d1d9338.gif">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilariStorms">
 
 </br></br></br></br></br></br></br></br></br></br>
