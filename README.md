@@ -25,25 +25,30 @@ hey there cutie
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Discord:
-@meowfemboy
-Website:
-https://vilari.be.sexy
+Discord: @meowfemboy
+Website: https://vilari.be.sexy
+Email: [not posted here - it's the same one used in my pgp key]
+Matrix: @vilari:sakura.ci
+PGP: https://vilari.be.sexy
+Also availible here: https://pastebin.com/raw/XyBzeuEm
 Irc:
-vilari on Freenode
+freenode: mommy 
+Librachat: vilari
+I do not currently have any other accounts under @vilari or any other alias.
+Any other vilari is not me or more likely an inactive account. 
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEJ34N2PYxwBrMlRhtJpgQS1okQxwFAmSmzg8ACgkQJpgQS1ok
-Qxz4bgv+JlHxtbocdvylwWxx0ohnHYPsZcP51GKupM4JLZviCD8ZCnlu5gVmv+Pi
-nPkeEC2bD1Dn+aNWncDBMnEhHBTHmSSePkP25IdjY/niRNQqPqcHoY4+bn6Eqz5+
-xHTle4jDa1KgK7XQOug+mGkmjYOJNM/Eu2zLITEofo08IzfgSm4IgsGGNG0FaPuC
-TWVp4rAUVWrupiZpqph7yWXQj43dx+PcAsBt1Q3cZAn4LjejEdULbFdr0KzHX7gC
-jMvFjDf7Mcif2XJYFYvb/zKYNZqhmOc3dvUIDYZJvoejZX1dYZV5Up7duutfDyHq
-N9CabmU4ATMgUKL9WaRuWs+g3dEdxI/y7SYCcL+FpD2LElX7qu0VTMgVTDX/DlV9
-LzHRxv+qLmyP+o2mEmCQlrEcCyIRtHyxOlfXZoPcKvGT50GofHCCBQdHWwmad6/k
-Gj5HtVCQqPb2pDlGt/tg7vf258RmRekgGmx0u2lzULbA0Wjs1p4E3V+dUpIEKA5F
-R9wV47h4
-=Q3B1
+iQGzBAEBCgAdFiEEJ34N2PYxwBrMlRhtJpgQS1okQxwFAmTGPtIACgkQJpgQS1ok
+QxwvPgv/bE5aXEn/psZ7dKVQ+53BYriuEDx12BcuHTPmT89Gk1anRcpwPwOwswkn
+ADeKppHyhQBRPDhRmI5UWw/LKzZC14Z3FeNML+eqBEgE5AFUoae8RXlJRMPNaenj
+htSPPLRtHWVdbB3pmZeWiw4uhGIgROW9pIRQZteZwN7eODXL4wAd7WI8kozruMPc
+MXKkeQaQ2cSRSwhOegYrmUlKhV5R13VHtKI3SZ2ZMoBhD9ElZhnmKsabsWh/mxlI
+LuTalMSRBm/RtHs811tA5nAPQB5RfHY0RT5Tc5vZHESpsShjT4TT+O4rp64Rjlvq
+CIHzDrK59ppPTc+1KuXXclyCDpigezuO996xTJ2T7fY5VVkprHN7HEwD21peMJpz
+ggkBqfB0h+/UkdTWMr1zxanN1b+pSygCsp97T5rqwagspxK3BOqbX55BY8PMtEt7
+dCZIDuRkHmTLG0G2IkTc+/JGQ778mM8wsDwyJDdXZDsaDD9EVdX/pFB+N1XyPYAG
+t5+q9erU
+=2zI0
 -----END PGP SIGNATURE-----
 
 
