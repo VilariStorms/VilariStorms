@@ -21,6 +21,8 @@ hey there cutie
 ### Contact me
 - PGP Key: https://pastebin.com/raw/XyBzeuEm
 - Email: Use PGP if important ![email@adress.piss](https://cdn.discordapp.com/attachments/1101565835291664404/1104446433836408922/aGc6ASO.png)
+-  I2P site: http://b62t443x56a2ovjhxuzqsp6nir7ueh563ggtbghtpiwmra6irhta.b32.i2p/
+-  Tor site: http://vilari2wwwdiqfbazwiv7xvl4jwzw6xgap4cz5gj4qukgloxuxclmvad.onion/
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
