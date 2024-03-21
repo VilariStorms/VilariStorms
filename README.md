@@ -1,4 +1,4 @@
-<img align="left" src="https://cdn.discordapp.com/attachments/842501199693086750/1120646988283793518/FGmWfPH.png"> <img align="right" src="https://cdn.discordapp.com/attachments/842501199693086750/1120646988283793518/FGmWfPH.png">
+
 
 <div align="center">
 
@@ -15,7 +15,7 @@ hey there cutie
 <img align="left" src="https://media.discordapp.net/attachments/842501199693086750/1120614751865671680/ezgif-3-343d1d9338.gif">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilariStorms">
 
-</br></br></br></br></br></br></br></br></br></br>
+
 
 
 ### Contact me
